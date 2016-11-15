@@ -1,0 +1,30 @@
+
+#kc-components ul.kc-components-list li span.cpicon.icon_news_ticker{
+background-image: url("news_ticker.png")!important;
+background-position: 35px center;
+background-repeat: no-repeat;
+background-size: 63px 55px;
+display: inline-block;
+font-size: 20px;
+height: 60px;
+margin: 5px auto;
+position: relative;
+vertical-align: middle;
+white-space: normal;
+width: 130px;
+}
+
+#kc-components ul.kc-components-list li span.cpicon.icon_hover{
+background-image: url("rdhover.png")!important;
+background-position: 35px center;
+background-repeat: no-repeat;
+background-size: 63px 55px;
+display: inline-block;
+font-size: 20px;
+height: 60px;
+margin: 5px auto;
+position: relative;
+vertical-align: middle;
+white-space: normal;
+width: 130px;
+}
